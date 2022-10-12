@@ -1,4 +1,4 @@
-<h1 align="center">💫 Bountive 💫</h1
+<h1 align="center">💫  Bountive  💫</h1
 <h4 align="center">Built with ❤️ during the <a href="https://matchboxdao.com/">MatchboxDAO</a> Hackathon </h2>
 <br>
 <br>
